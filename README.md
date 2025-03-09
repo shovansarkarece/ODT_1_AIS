@@ -1,2 +1,5 @@
-### YOLOv11 for Real-Time Class-Wise Vehicle Counting and Tracking
+# YOLOv11 for Real-Time Class-Wise Vehicle Counting and Tracking
+## Abstract
+Effective vehicle detection is a top priority in the field of real-time applications like surveillance and autonomous driving. This environment has changed due to the You Only Look Once (YOLO) framework, which is well-known for its quick object detection. This study explores the integration of Yolo v11 and real-time vehicle recognition, refining its architecture for quick and accurate identification. The model's exceptional accuracy of 97.9% on mAP50 and 91.3% on mAP50-95, as demonstrated by empirical validation, highlights its strength. This accomplishment confirms the model's real-time processing capabilities in addition to attesting to its accuracy. The consequences have the potential to revolutionize urban planning and transportation safety. This study highlights YOLO v11's strength in intelligent object recognition, which has the potential to transform and improve a number of fields.
+Keywords—YOLO Framework, mAp50-95, Vehicle Detection, Object Detection.
 
