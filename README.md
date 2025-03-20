@@ -56,3 +56,15 @@ Fig. 5. Performance in training
 
 - **In summary, significant discoveries and developments have resulted from the investigation into effective vehicle detection and categorization utilizing the YOLO v5 framework. Particularly noteworthy is the YOLO v11 invention, which has shown remarkable accuracy of 97.9% on mAP50 and 91.3% on mAP50-95. This accomplishment highlights YOLO v11's revolutionary potential in real-time applications and establishes it as a key instrument in the transformation of vehicle detection systems.**
 - **In the future, these methods will have an impact on more than only vehicle identification; they will influence the development of several technologies. YOLO v11's accuracy and real-time capabilities serve as an example of a larger trend in technical improvement. These methods provide the basis of advancements in self-driving car technology, which makes transportation networks safer. Additionally, their influence is felt in areas like as smart cities, which allow for effective traffic control and real-time surveillance for better urban living. These developments go beyond transportation and have an impact on industries like robotics and healthcare, highlighting the revolutionary potential of these methods in fostering a more connected and effective future.**
+# Output
+- **All_OutPut: https://github.com/shovansarkarece/ODT_1_AIS/blob/main/Output**
+- **Command_Line_Interface_Screenshoot: https://github.com/shovansarkarece/ODT_1_AIS/blob/main/Output/Output_1.png**
+- **Command_Line_Interface_Screenshoot: https://github.com/shovansarkarece/ODT_1_AIS/blob/main/Output/Output_2.png**
+- **Output1: https://github.com/shovansarkarece/ODT_1_AIS/blob/main/Output/2.mkv**
+- **Output2: https://github.com/shovansarkarece/ODT_1_AIS/blob/main/Output/3.mkv**
+- **Output3: https://github.com/shovansarkarece/ODT_1_AIS/blob/main/Output/4.mkv**
+# Test Videos:
+- **All_Test_Videos: https://github.com/shovansarkarece/ODT_1_AIS/tree/main/test_videos**
+- **Test_Video_1: https://github.com/shovansarkarece/ODT_1_AIS/blob/main/test_videos/2.mp4**
+- **Test_Video_2: https://github.com/shovansarkarece/ODT_1_AIS/blob/main/test_videos/3.mp4**
+- **Test_Video_3: https://github.com/shovansarkarece/ODT_1_AIS/blob/main/test_videos/4.mp4**
