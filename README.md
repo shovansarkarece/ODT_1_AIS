@@ -63,7 +63,7 @@ Fig. 5. Performance in training
 - **Output1: https://github.com/shovansarkarece/ODT_1_AIS/blob/main/Output/2.mkv**
 - **Output2: https://github.com/shovansarkarece/ODT_1_AIS/blob/main/Output/3.mkv**
 - **Output3: https://github.com/shovansarkarece/ODT_1_AIS/blob/main/Output/4.mkv**
-# Test Videos:
+# Test Videos
 - **All_Test_Videos: https://github.com/shovansarkarece/ODT_1_AIS/tree/main/test_videos**
 - **Test_Video_1: https://github.com/shovansarkarece/ODT_1_AIS/blob/main/test_videos/2.mp4**
 - **Test_Video_2: https://github.com/shovansarkarece/ODT_1_AIS/blob/main/test_videos/3.mp4**
